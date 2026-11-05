@@ -1,0 +1,1 @@
+The project provides a complete workflow for building a multi-class classifier in Python to recognize the risk of rice leaf disease. It includes methods like automated feature engineering for connecting relational databases, comparison of different classifiers, and hyperparameter tuning.
